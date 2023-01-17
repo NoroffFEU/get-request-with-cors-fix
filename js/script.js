@@ -1,5 +1,5 @@
 const url = "https://elephant-api.herokuapp.com/elephants";
-const proxy = "https://noroffcors.herokuapp.com/";
+const proxy = "https://noroffcors.onrender.com/";
 
 const corsFix = proxy + url;
 
